@@ -1,9 +1,9 @@
 # MySQL Joins Assignment
 
-## 📌 About This Assignment
+## About This Assignment
 In this assignment, I practiced different types of SQL Joins using MySQL. I worked with the `EMP`, `DEPT`, and `SALGRADE` tables to retrieve and combine data from multiple tables.
 
-## 🛠️ What I Did
+## What I Did
 - Retrieved employee names with their department names.
 - Used INNER JOIN to retrieve matching records.
 - Practiced LEFT JOIN and RIGHT JOIN.
@@ -16,7 +16,7 @@ In this assignment, I practiced different types of SQL Joins using MySQL. I work
 - Identified departments that have no employees.
 - Applied WHERE, ORDER BY, GROUP BY, and aggregate functions in join queries.
 
-## 📚 What I Learned
+## What I Learned
 Through this assignment, I learned:
 
 - How to join two or more tables in MySQL.
@@ -28,7 +28,7 @@ Through this assignment, I learned:
 - How to retrieve meaningful information from multiple related tables.
 - How to identify unmatched records using LEFT JOIN and IS NULL.
 
-## 🎯 Conclusion
+## Conclusion
 This assignment helped me strengthen my understanding of SQL Joins and improve my practical database querying skills. I learned how to combine related data from multiple tables and retrieve results according to different conditions.
 
 **This is another step forward in my SQL and Database learning journey!** 🚀
