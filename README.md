@@ -30,5 +30,4 @@ Through this assignment, I learned:
 
 ## Conclusion
 This assignment helped me strengthen my understanding of SQL Joins and improve my practical database querying skills. I learned how to combine related data from multiple tables and retrieve results according to different conditions.
-
 **This is another step forward in my SQL and Database learning journey!** 🚀
